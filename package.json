@@ -1,0 +1,17 @@
+{
+  "name": "ejercicio-2",
+  "version": "1.0.0",
+  "description": "Instalacion de Dependencias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yumerlis Guedez",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "express": "^4.18.2",
+    "moment": "^2.29.4"
+  }
+}
